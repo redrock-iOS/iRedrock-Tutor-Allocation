@@ -4,6 +4,6 @@
 | ---- | :--: | --------------- |
 | 苟岚锋  | 3~4名 | XXX、XXX、XXX、XXX |
 | 唐迈琪  | 3~4名 | XXX、XXX、XXX、XXX |
-| 梁霄   | 3~4名 | 王一成、XXX、XXX、XXX |
+| 梁霄   | 3~4名 | 张彬、XXX、XXX、XXX |
 | 周杰   | 3~4名 | XXX、XXX、XXX、XXX |
 
